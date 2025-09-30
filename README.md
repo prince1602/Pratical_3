@@ -90,7 +90,7 @@ app/
 Below are example screenshots demonstrating app functionalities:
 
 <p float="left">
-  <img width="406" height="722" alt="first" src="https://github.com/user-attachments/assets/30ee5894-8efc-42de-a252-42688aaa8075" />
+  <img width="335" height="595" alt="first" src="https://github.com/user-attachments/assets/ae0d451b-133f-4feb-976c-8c782d71210e" />
   <img width="327" height="596" alt="second" src="https://github.com/user-attachments/assets/e19bf43d-eb3b-4b10-8831-e1894aef6220" />
   <img width="367" height="652" alt="third" src="https://github.com/user-attachments/assets/2f248f16-009e-4322-a0bc-0c553d743004" />
 </p>
